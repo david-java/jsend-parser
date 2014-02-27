@@ -1,4 +1,4 @@
-package org.json.test;
+package org.json.jsend.parser.test;
 
 import java.util.List;
 

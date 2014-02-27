@@ -1,4 +1,4 @@
-package org.json.test;
+package org.json.jsend.parser.test;
 
 import java.io.IOException;
 import java.util.List;

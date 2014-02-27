@@ -1,4 +1,4 @@
-package org.json.test;
+package org.json.jsend.parser.test;
 
 public class ThreeNumbers {
 	private Integer one;
